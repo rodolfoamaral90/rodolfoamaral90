@@ -1,4 +1,4 @@
-## Hi there 👋, Eu sou Rodolfo
+## Olá 👋, Eu sou Rodolfo
 
 <!--
 **rodolfoamaral90/rodolfoamaral90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
