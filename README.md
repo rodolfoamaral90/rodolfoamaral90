@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Trabalho com Free-lance como desenvolvedor Front-End onde posso contribuir com dedicação no aprendizado contínuo e na construção de soluções práticas e eficientes
+Desenvolvedor free-lance com foco em oportunidades como Front-End, Back-End ou Full Stack Júnior. Focado em aprendizado contínuo e na construção de soluções práticas e eficientes.
 <br>
 <br>
 <br>
